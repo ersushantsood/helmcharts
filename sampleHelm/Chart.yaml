@@ -1,0 +1,5 @@
+name: Sushant's First Helm Chart
+version: 1.0.0
+description: Sample helm Chart
+maintainers:
+  - name: Sushant Sood
